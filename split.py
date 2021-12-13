@@ -1,2 +1,2 @@
-word="ammoommakkilivaayadi"
+word="jaganmanikandanmahin"
 print len(word)

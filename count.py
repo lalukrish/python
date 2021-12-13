@@ -1,12 +1,7 @@
-car= ["benz","bmw","mustang","tesla","honda"]
+car= ["Benz","BMW","Mustang","Tesla"]
 for i in car:
     print(i)
-    k=i.count("bmw")
+    k=i.count("BMW")
     print(k)
-for x in "ammoommakkilivaayadi":
-    g=x.split()
-    nof=len(g)
-    print(nof)
-    y=x.count("m")
-    print(y)
+
     

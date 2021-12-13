@@ -6,5 +6,5 @@ for word in sentence:
         count[word]+=1
     else:
         counts[word]=1
-        for k,v in counts.items():
-            print(k,v)
+    for k,v in counts.items():
+    print(k,v)
