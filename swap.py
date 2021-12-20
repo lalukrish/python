@@ -1,4 +1,4 @@
-P = int( input("Please enter value for P: "))  
+P = int( input("Please  enter value for P: "))  
 Q = int( input("Please enter value for Q: "))  
 temp_1 = P  
 P = Q  

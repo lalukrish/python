@@ -1,4 +1,4 @@
-line=input("enter the line:")
+line=input("enter  the line:")
 counts={}
 sentence=line.split()
 for word in sentence:
