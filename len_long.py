@@ -9,7 +9,7 @@ def longestLength(a):
             max1 = len(i)
             temp = i
  
-    print("The word with the longest length is:", temp,
+    print("The  word with the longest length is:", temp,
           " and length is ", max1)
  
  
